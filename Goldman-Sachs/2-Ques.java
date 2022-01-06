@@ -1,4 +1,6 @@
 // https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/#
+// In this question it is assumed that the rectangles are parallel to the axes, but 
+// plot twist: what if they are not. Whats the solution then
 
 int doOverlap(int l1[], int r1[], int l2[], int r2[]) {
     // code here
